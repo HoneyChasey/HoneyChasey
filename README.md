@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>honeychasey — Profile</title>
+# Honey Chasey
 </head>
 <body>
   <h1>💻 Tech Stack</h1>
