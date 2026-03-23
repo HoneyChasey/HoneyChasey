@@ -1,6 +1,6 @@
+# Honey Chasey
 <head>
   <meta charset="UTF-8">
-# Honey Chasey
 </head>
 <body>
   <h1>💻 Tech Stack</h1>
