@@ -5,9 +5,7 @@
   <title>honeychasey — Profile</title>
 </head>
 <body>
-
   <h1>💻 Tech Stack</h1>
-
   <p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -33,17 +31,16 @@
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </p>
 
-  <h1>📊 GitHub Stats</h1>
+  <hr>
 
-  <p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=honeychasey&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </p>
-  <p>
+  <p align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=honeychasey&theme=cobalt&hide_border=false" alt="GitHub Streak">
   </p>
-  <p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeychasey&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   </p>
-
 </body>
 </html>
